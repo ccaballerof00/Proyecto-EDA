@@ -80,6 +80,21 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Reader/csvReader.cpp">
+			<Option target="Proyecto_EDA"/>
+		</Unit>
+		<Unit filename="/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Reader/csvReader.h">
+			<Option target="Proyecto_EDA"/>
+		</Unit>
+		<Unit filename="/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Node/Node.cpp">
+			<Option target="Proyecto_EDA"/>
+		</Unit>
+		<Unit filename="/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Rtree.cpp">
+			<Option target="Proyecto_EDA"/>
+		</Unit>
+		<Unit filename="/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Rtree.h">
+			<Option target="Proyecto_EDA"/>
+		</Unit>
 		<Unit filename="/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/main.cpp">
 			<Option target="Proyecto_EDA"/>
 		</Unit>

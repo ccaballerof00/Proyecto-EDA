@@ -143,6 +143,87 @@ Proyecto_EDA/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Proyecto_EDA.dir/build.make CMakeFiles/Proyecto_EDA.dir/build
 .PHONY : Proyecto_EDA/fast
 
+Reader/csvReader.o: Reader/csvReader.cpp.o
+
+.PHONY : Reader/csvReader.o
+
+# target to build an object file
+Reader/csvReader.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Proyecto_EDA.dir/build.make CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.o
+.PHONY : Reader/csvReader.cpp.o
+
+Reader/csvReader.i: Reader/csvReader.cpp.i
+
+.PHONY : Reader/csvReader.i
+
+# target to preprocess a source file
+Reader/csvReader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Proyecto_EDA.dir/build.make CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.i
+.PHONY : Reader/csvReader.cpp.i
+
+Reader/csvReader.s: Reader/csvReader.cpp.s
+
+.PHONY : Reader/csvReader.s
+
+# target to generate assembly for a file
+Reader/csvReader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Proyecto_EDA.dir/build.make CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.s
+.PHONY : Reader/csvReader.cpp.s
+
+Rtree/Node/Node.o: Rtree/Node/Node.cpp.o
+
+.PHONY : Rtree/Node/Node.o
+
+# target to build an object file
+Rtree/Node/Node.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Proyecto_EDA.dir/build.make CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.o
+.PHONY : Rtree/Node/Node.cpp.o
+
+Rtree/Node/Node.i: Rtree/Node/Node.cpp.i
+
+.PHONY : Rtree/Node/Node.i
+
+# target to preprocess a source file
+Rtree/Node/Node.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Proyecto_EDA.dir/build.make CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.i
+.PHONY : Rtree/Node/Node.cpp.i
+
+Rtree/Node/Node.s: Rtree/Node/Node.cpp.s
+
+.PHONY : Rtree/Node/Node.s
+
+# target to generate assembly for a file
+Rtree/Node/Node.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Proyecto_EDA.dir/build.make CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.s
+.PHONY : Rtree/Node/Node.cpp.s
+
+Rtree/Rtree.o: Rtree/Rtree.cpp.o
+
+.PHONY : Rtree/Rtree.o
+
+# target to build an object file
+Rtree/Rtree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Proyecto_EDA.dir/build.make CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.o
+.PHONY : Rtree/Rtree.cpp.o
+
+Rtree/Rtree.i: Rtree/Rtree.cpp.i
+
+.PHONY : Rtree/Rtree.i
+
+# target to preprocess a source file
+Rtree/Rtree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Proyecto_EDA.dir/build.make CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.i
+.PHONY : Rtree/Rtree.cpp.i
+
+Rtree/Rtree.s: Rtree/Rtree.cpp.s
+
+.PHONY : Rtree/Rtree.s
+
+# target to generate assembly for a file
+Rtree/Rtree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Proyecto_EDA.dir/build.make CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.s
+.PHONY : Rtree/Rtree.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -179,6 +260,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Proyecto_EDA"
+	@echo "... Reader/csvReader.o"
+	@echo "... Reader/csvReader.i"
+	@echo "... Reader/csvReader.s"
+	@echo "... Rtree/Node/Node.o"
+	@echo "... Rtree/Node/Node.i"
+	@echo "... Rtree/Node/Node.s"
+	@echo "... Rtree/Rtree.o"
+	@echo "... Rtree/Rtree.i"
+	@echo "... Rtree/Rtree.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

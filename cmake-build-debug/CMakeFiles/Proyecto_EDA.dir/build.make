@@ -90,17 +90,62 @@ CMakeFiles/Proyecto_EDA.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto_EDA.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/main.cpp" -o CMakeFiles/Proyecto_EDA.dir/main.cpp.s
 
+CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.o: CMakeFiles/Proyecto_EDA.dir/flags.make
+CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.o: ../Reader/csvReader.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.o -c "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Reader/csvReader.cpp"
+
+CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Reader/csvReader.cpp" > CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.i
+
+CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Reader/csvReader.cpp" -o CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.s
+
+CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.o: CMakeFiles/Proyecto_EDA.dir/flags.make
+CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.o: ../Rtree/Rtree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.o -c "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Rtree.cpp"
+
+CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Rtree.cpp" > CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.i
+
+CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Rtree.cpp" -o CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.s
+
+CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.o: CMakeFiles/Proyecto_EDA.dir/flags.make
+CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.o: ../Rtree/Node/Node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.o -c "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Node/Node.cpp"
+
+CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Node/Node.cpp" > CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.i
+
+CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Node/Node.cpp" -o CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.s
+
 # Object files for target Proyecto_EDA
 Proyecto_EDA_OBJECTS = \
-"CMakeFiles/Proyecto_EDA.dir/main.cpp.o"
+"CMakeFiles/Proyecto_EDA.dir/main.cpp.o" \
+"CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.o" \
+"CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.o" \
+"CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.o"
 
 # External object files for target Proyecto_EDA
 Proyecto_EDA_EXTERNAL_OBJECTS =
 
 Proyecto_EDA: CMakeFiles/Proyecto_EDA.dir/main.cpp.o
+Proyecto_EDA: CMakeFiles/Proyecto_EDA.dir/Reader/csvReader.cpp.o
+Proyecto_EDA: CMakeFiles/Proyecto_EDA.dir/Rtree/Rtree.cpp.o
+Proyecto_EDA: CMakeFiles/Proyecto_EDA.dir/Rtree/Node/Node.cpp.o
 Proyecto_EDA: CMakeFiles/Proyecto_EDA.dir/build.make
 Proyecto_EDA: CMakeFiles/Proyecto_EDA.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Proyecto_EDA"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Proyecto_EDA"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Proyecto_EDA.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

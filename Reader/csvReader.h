@@ -1,0 +1,11 @@
+
+#ifndef PROYECTO_EDA_CSVREADER_H
+#define PROYECTO_EDA_CSVREADER_H
+
+
+class csvReader {
+
+};
+
+
+#endif //PROYECTO_EDA_CSVREADER_H

@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA"
+"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Usuario\Desktop\Proyecto-EDA
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/cmake-build-debug
+-- Build files have been written to: C:/Users/Usuario/Desktop/Proyecto-EDA/cmake-build-debug
